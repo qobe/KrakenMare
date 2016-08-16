@@ -2,8 +2,10 @@
   <dictionary name="max">
     <words>
       <w>alist</w>
+      <w>csrf</w>
       <w>dropdown</w>
       <w>endfor</w>
+      <w>forloop</w>
       <w>tabindex</w>
     </words>
   </dictionary>
